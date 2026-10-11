@@ -1,0 +1,12 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and runtime artifacts
+*.log
+logins.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
