@@ -6,25 +6,17 @@ Features a unified **TUI Console Dashboard** (Bettercap-style live terminal UI),
 
 ---
 
-## 🖥️ TUI Dashboard Preview
+## 📸 Previews
 
-```text
-┌──────────────────────── RICKROLL CAPTIVE PORTAL LAB ────────────────────────┐
-│ SSID: Free_Wifi    Channel: 6    IP: 10.13.37.1    Interface: wlan0          │
-│ Services: ● Hostapd [RUNNING]   ● Dnsmasq [RUNNING]   ● Portal:80 [RUNNING] │
-│ [ Active Clients: 1 ]     [ 🎉 Total Rickrolls: 1 ]     [ Uptime: 00:04:22 ] │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 📱 CONNECTED CLIENTS                                                        │
-│  IP ADDRESS       MAC ADDRESS        DEVICE / HOST          STATUS          │
-│  10.13.37.81      22:20:0f:b4:c3:76  TECNO-CAMON-50-Ultra   Rickrolled! 🎉  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 📜 LIVE ACTIVITY FEED                                                       │
-│  [16:42:01] [AP     ] Device connected: 22:20:0f:b4:c3:76                   │
-│  [16:42:02] [DHCP   ] Leased 10.13.37.81 -> TECNO-CAMON-50-Ultra            │
-│  [16:42:05] [PROBE  ] Captive portal probe intercepted                      │
-│  [16:42:12] [🎉 HIT ] Victim #1 Rickrolled! IP: 10.13.37.81 (Android)       │
-└────────────────── [Q] Quit Lab  |  [C] Clear Log  |  [↑/↓] Scroll ──────────┘
-```
+### 🖥️ TUI Console Dashboard
+<p align="center">
+  <img src="tui_screenshot.png" alt="TUI Dashboard Preview" width="850">
+</p>
+
+### 📱 Victim's Captive Portal Screen
+<p align="center">
+  <img src="connectpage_screenshot.png" alt="Captive Portal Connect Screen" width="380">
+</p>
 
 ---
 
