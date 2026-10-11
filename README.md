@@ -61,8 +61,8 @@ Features a unified **TUI Console Dashboard** (Bettercap-style live terminal UI),
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/rickroll-portal.git
-   cd rickroll-portal
+   git clone https://github.com/theomata/rickroll-captiveportal.git
+   cd rickroll-captiveportal
    ```
 
 2. **Make all scripts executable:**
