@@ -8,14 +8,16 @@ Features a unified **TUI Console Dashboard** (Bettercap-style live terminal UI),
 
 ## 📸 Previews
 
-### 🖥️ TUI Console Dashboard
+### 🖥️ Hacker View: TUI Console Dashboard
 <p align="center">
   <img src="tui_screenshot.png" alt="TUI Dashboard Preview" width="850">
 </p>
 
-### 📱 Victim's Captive Portal Screen
+### 📱 Victim Experience (Before & After Connect)
 <p align="center">
-  <img src="connectpage_screenshot.png" alt="Captive Portal Connect Screen" width="380">
+  <img src="connectpage_screenshot.png" alt="Innocent Connect Screen" width="380" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="rickroll_experience.png" alt="Rickroll Experience After Connect" width="380" />
 </p>
 
 ---
